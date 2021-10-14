@@ -1,4 +1,4 @@
-Applying the same augmentation with the same parameters to multiple images, masks, bounding boxes, or keypoints
+**Applying the same augmentation with the same parameters to multiple images, masks, bounding boxes, or keypoints
 
 Sometimes we want to apply the same set of augmentations to multiple input objects of the same type. For example, you might have a set of frames from the video, and you want to augment them in the same way. Or you may have multiple masks for the same image, and you want to apply the same augmentation for all of them.
 
